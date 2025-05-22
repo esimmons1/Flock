@@ -38,3 +38,6 @@ Inspired by:
 Notes:
 ------
 It's not perfect bird behavior, but it looks cool and helps understand basic steering behaviors with vectors.
+
+---
+As per usual, if you're going to steal or use it at least credit me please. Thank you for reading and have a nice day.
