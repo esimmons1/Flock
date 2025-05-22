@@ -1,7 +1,7 @@
 Boids Flocking Simulation
 =========================
 
-By Ellis Simmons, May 2025  
+By: Ellis Simmons, May 2025  
 Made with Processing
 
 What is this?
