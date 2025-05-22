@@ -2,7 +2,7 @@ Boids Flocking Simulation
 =========================
 
 By: Ellis Simmons, May 2025  
-Made with Processing
+Language: Processing (Java)
 
 What is this?
 -------------
