@@ -11,9 +11,9 @@ It's a simple 2D boids flocking simulation — little triangle birds that fly ar
 How it works:
 -------------
 Each boid looks around within a certain distance and adjusts its movement based on three things:
-- **Separation:** Avoid getting too close to neighbors.
-- **Alignment:** Match the average direction of nearby flockmates.
-- **Cohesion:** Move towards the average position of nearby flockmates.
+- Separation: Avoid getting too close to neighbors.
+- Alignment: Match the average direction of nearby flockmates.
+- Cohesion: Move towards the average position of nearby flockmates.
 
 When a boid goes off one edge of the screen, it just wraps around to the other side.
 
@@ -25,9 +25,9 @@ How to run:
 
 You can tweak:
 --------------
-- Number of boids in `setup()`
-- `view` distance for how far they look around
-- `maxSpeed` and `maxForce` to control movement smoothness and speed
+- Number of boids in setup()
+- view distance for how far they look around
+- maxSpeed and maxForce to control movement smoothness and speed
 
 Inspired by:
 ------------
